@@ -1,0 +1,56 @@
+li:hover {
+            
+    text-decoration: underline;
+
+}
+.navbar {
+    background-color: #4BB543;
+    border-radius: 0px;
+    margin: -16px;
+    width: 1540px;
+    display: block;
+    
+    top: 0px;
+}
+
+.navbar ul {
+    overflow: auto;
+}
+
+.navbar li {
+    margin-top: 10px;
+    padding: 20px;
+    float: left;
+    list-style: none;
+    color: white;
+    margin: 4px 20px;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+#social-fb:hover {
+color: #3B5998;
+}
+#social-tw:hover {
+color: #4099FF;
+}
+#social-gp:hover {
+color: #d34836;
+}
+#social-em:hover {
+color: #f39c12;
+}
+#footer{
+    background-color: #4BB543 ;
+    height: 200px;
+    display: block;
+    margin: -16px;
+
+}
+#select{
+background: #f8981d !important;
+border-color: #f8981d !important;
+border-radius: 60px;
+padding: 7px 10px !important;
+color: #ffffff !important;
+}
